@@ -9,6 +9,10 @@
   },
   "dependencies": {
     "@coinbase/wallet-sdk": "^3.7.1",
+    "@gnosis.pm/safe-apps-provider": "^0.15.1",
+    "@gnosis.pm/safe-apps-sdk": "^7.8.0",
+    "@walletconnect/ethereum-provider": "2.7.2",
+    "@web3modal/standalone": ">=2",
     "ethers": "^6.3.0",
     "vue": "^3.2.26",
     "vue-web3": "^2.1.0",
