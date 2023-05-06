@@ -11,6 +11,10 @@
 
     <router-view></router-view>
   </div>
+
+  <footer>
+  <p>&copy; 2023 Vue NFT Marketplace</p>
+</footer>
 </template>
 
 <script>
@@ -41,4 +45,21 @@ a {
   text-decoration: none;
   color: #333;
 }
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer p {
+  margin: 0;
+  font-size: 14px;
+}
+
 </style>
