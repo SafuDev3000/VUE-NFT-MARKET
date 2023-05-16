@@ -8,3 +8,7 @@
     </ul>
   </div>
 </template>
+
+<script>
+import { WalletSDK } from '@coinbase/wallet-sdk';
+import { SafeAppsSdk } from '@gnosis.pm/safe-apps-sdk';
