@@ -13,14 +13,14 @@
   </div>
 
   <footer>
-  <p>&copy; 2023 Vue NFT Marketplace</p>
-</footer>
+    <p>&copy; 2023 Vue NFT Marketplace</p>
+  </footer>
 </template>
 
 <script>
 export default {
   name: 'App',
-}
+};
 </script>
 
 <style>
@@ -61,5 +61,4 @@ footer p {
   margin: 0;
   font-size: 14px;
 }
-
 </style>
